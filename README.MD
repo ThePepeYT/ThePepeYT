@@ -5,9 +5,9 @@
 
 
 <h1 align="center"><strong>Hi, I'm Bartek, and i am living in Poland <3</strong></h1>
-<br>
+<h3>
 I like to learn about mechatronics and some programming things
-<br>
+</h3>
 
 <!-- Stats -->
 <details align="center"><summary><b>My stats</b></summary>
