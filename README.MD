@@ -3,11 +3,10 @@
 
 
 
-# DARKEMPIRE'S PROFILE  <img src="https://media3.giphy.com/media/jqHmOFjIb9KV09DOPB/giphy.gif" width="50">
 
-Hi, I'm Clément, I'm 17 and I live in France.
+<h1 align="center">Hi, I'm Bartek, and i am living in Poland <3</h1>
 <br>
-I'm passionated about computing and marketing. I'm also fascinated by machine learning and AI.
+I like to learn about mechatronics and some programming things
 <br>
 
 <!-- Stats -->
