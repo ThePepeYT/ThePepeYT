@@ -22,8 +22,8 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 <!-- Contact me -->
 <details align="center"><summary><b>Contact me</b></summary>
     <ul>
-        <li><strong>Discord :</strong> <code>Darkempire#8245</code></li>
-        <li><strong>Discord Group : </strong> <code>ThePepeYT#1139</code</li>
+        <li><strong>Discord:</strong> <code>Darkempire#8245</code></li>
+        <li><strong>Discord Group:</strong> <code>ThePepeYT#1139</code</li>
     </ul>
     
 **Join the Discord server !**
