@@ -1,4 +1,4 @@
-<h3 align="center"> <code>**ThePepeYT'S PROFILE</code></h3>
+<h3 align="center"> <code>**ThePepeYT'S PROFILE**</code></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thepepeyt"> </img></p>
 
 
