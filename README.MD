@@ -24,9 +24,6 @@ I like to learn about mechatronics and some programming things
         <li><strong>Discord:</strong> <code>ThePepeYT#1139</code></li>
         <li><strong>Discord Group:</strong> <code>[DISCORD](https://discord.gg/ktUcZwCsE4)</code</li>
     </ul>
-
-
-
 </details>
 
 
