@@ -11,7 +11,7 @@ I like to learn about mechatronics and some programming things
 
 <!-- Stats -->
 <details align="center"><summary><b>My stats</b></summary>
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Darkempire78&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thepepeyt&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=thepepeyt&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
     <!-- ![ThePepeYT wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thepepeyt)](https://github.com/anuraghazra/github-readme-stats) -->
