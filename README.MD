@@ -21,13 +21,13 @@ I like to learn about mechatronics and some programming things
 <!-- Contact me -->
 <details align="center"><summary><b>Contact me</b></summary>
     <ul>
-        <li><strong>Discord:</strong> <code>Darkempire#8245</code></li>
-        <li><strong>Discord Group:</strong> <code>ThePepeYT#1139</code</li>
+        <li><strong>Discord:</strong> <code>ThePepeYT#1139</code></li>
+        <li><strong>Discord Group:</strong> <code>[DISCORD](https://discord.gg/ktUcZwCsE4)</code</li>
+        [![](https://i.imgur.com/UfyvtOL.png)](https://discord.gg/ktUcZwCsE4)
     </ul>
     
-**Join the Discord server !**
 
-[![](https://i.imgur.com/UfyvtOL.png)](https://discord.gg/sPvJmY7mcV)
+
 </details>
 
 
