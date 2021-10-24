@@ -15,12 +15,12 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Darkempire78&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=thepepeyt&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-    <!-- ![Darkempire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thepepeyt)](https://github.com/anuraghazra/github-readme-stats) -->
+    <!-- ![ThePepeYT wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thepepeyt)](https://github.com/anuraghazra/github-readme-stats) -->
 </details>
 
 
 <!-- Contact me -->
-<details><summary><b>Contact me</b></summary>
+<details align="center"><summary><b>Contact me</b></summary>
     <ul>
         <li><strong>Discord :</strong> <code>Darkempire#8245</code></li>
         <li><strong>Discord Group : </strong> <code>ThePepeYT#1139</code</li>
