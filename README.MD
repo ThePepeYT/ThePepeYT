@@ -11,7 +11,7 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 <br>
 
 <!-- Stats -->
-<details><summary><b>My stats</b></summary>
+<p align="center"><details><summary><b>My stats</b></summary></p>
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Darkempire78&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Darkempire78&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
