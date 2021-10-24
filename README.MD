@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi, I'm Bartek, and i am living in Poland <3</h1>
+<h1 align="center"><strong>Hi, I'm Bartek, and i am living in Poland <3</strong></h1>
 <br>
 I like to learn about mechatronics and some programming things
 <br>
