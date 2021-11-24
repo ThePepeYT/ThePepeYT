@@ -1,8 +1,22 @@
-<h3 align="center"> <code><strong>ThePepeYT'S PROFILE</strong></code></h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thepepeyt"> </img></p>
+## Hello I`am ThePepeYT
+
+## About me
+I`am 15 years old boy that likes learn about programming, AI and technology.
+Now I only main java to learn it to perfection 
 
 
 
+
+### Databases that I kinda know
+
+<p align="left">
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL DATASES&color=blue"></a>
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Redis" src="https://img.shields.io/static/v1?label=&message=Redis&color=red"></a>  
+   &emsp;
+   <a href="https://www.heroku.com/"><img alt="MongoDB" src="https://img.shields.io/static/v1?label=&message=MongoDB&color=green"></a>  
+ </p>
 
 <h1 align="center"><strong>Hi, I'm Bartek, and i am living in Poland <3</strong></h1>
 <h3 align="center">
