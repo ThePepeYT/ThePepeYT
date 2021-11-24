@@ -35,6 +35,9 @@ Now I only main java to learn it to perfection
    <a href="https://www.heroku.com/"><img alt="Webstorm" src="https://img.shields.io/static/v1?label=&message=Webstorm&color=green"></a>  
  </p>
 
+## My stats
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ThePepeYTc&theme=onedark&margin-w=5&margin-h=5&no-bg=false"></p>
+
 ## What I`am doing now?
 Now I am creating bots/mc plugins/applications for free because ... yes
 and what I truly doing now is creating my database library [DatabaseHelper](https://github.com/ThePepeYT/databasehelper/)
