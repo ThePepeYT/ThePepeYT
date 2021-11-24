@@ -8,13 +8,13 @@ Now I only main java to learn it to perfection
 
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="SQL" src="https://shields.io/badge/MySQL-and--any--forks?logo=appveyor&style=for-the-badge&color=red"></a>
+    <a href="https://www.mysql.com/"><img alt="SQL" src="https://shields.io/badge/MySQL-and--any--forks?logo=appveyor&style=for-the-badge&color=blue"></a>
   &emsp;
-    <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/static/v1?label=&message=Redis&color=red"></a>  
+    <a href="https://redis.io/"><img alt="Redis" src="https://shields.io/badge/Redis-and--any--forks?logo=appveyor&style=for-the-badge&color=blue"></a>
    &emsp;
-   <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/static/v1?label=&message=MongoDB&color=green"></a>
+   <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://shields.io/badge/Redis-and--any--forks?logo=appveyor&style=for-the-badge&color=green"></a>
     &emsp;
-      <a href="https://sqlite.org/index.html"><img alt="SQLite3" src="https://img.shields.io/static/v1?label=&message=SQLite3&color=orange"></a>
+      <a href="https://sqlite.org/"><img alt="SQLite3" src="https://shields.io/badge/Redis-and--any--forks?logo=appveyor&style=for-the-badge&color=purple"></a>
  </p>
 
 ### 👌Languages
