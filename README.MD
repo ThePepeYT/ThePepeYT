@@ -44,13 +44,13 @@ and what I truly doing now is creating my database library [DatabaseHelper](http
 You can find me on:
 <strong>
 <br>
-[CTK SERVER](https://discord.gg/BzDDN5yYCN)
+[CTK SERVER](https://discord.gg/BzDDN5yYCN) as someone who wanna be funny
 </br>
 <br>
-[DARKEMPIRE SERVER](https://discord.gg/RER9hkbpjh)
+[DARKEMPIRE SERVER](https://discord.gg/RER9hkbpjh) as someone who kinda try to help
 </br>
 <br>
-[MY SERVER](https://discord.gg/A4XZFze8WU)
+[MY SERVER](https://discord.gg/A4XZFze8WU) IDK who
 </br>
 </strong>
 
