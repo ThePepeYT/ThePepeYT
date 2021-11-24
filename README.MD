@@ -46,9 +46,9 @@ and what I truly doing now is creating my database library [DatabaseHelper](http
 
 <p align="left">
   &emsp;
-    <a href="https://discord.gg/BzDDN5yYCN"><img alt="CTK" src="https://img.shields.io/static/v1?label=&message=CTK&color=blue"></a>
+    <a href="https://discord.gg/BzDDN5yYCN"><img alt="CTK" src="https://img.shields.io/static/v1?label=&message=CTK server&color=blue"></a>
   &emsp;
-    <a href="https://discord.gg/RER9hkbpjh"><img alt="DARKEMPIRE" src="https://img.shields.io/static/v1?label=&message=Darkempire&color=red"></a>  
+    <a href="https://discord.gg/RER9hkbpjh"><img alt="DARKEMPIRE" src="https://img.shields.io/static/v1?label=&message=Darkempire server&color=red"></a>  
    &emsp;
    <a href="https://discord.gg/A4XZFze8WU"><img alt="my" src="https://img.shields.io/static/v1?label=&message=My server&color=green"></a>
  </p>
