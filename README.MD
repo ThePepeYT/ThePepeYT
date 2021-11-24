@@ -35,6 +35,18 @@ Now I only main java to learn it to perfection
    <a href="https://www.heroku.com/"><img alt="Webstorm" src="https://img.shields.io/static/v1?label=&message=Webstorm&color=green"></a>  
  </p>
 
+## What I`am doing now?
+Now I am creating bots/mc plugins/applications for free because ... yes
+and what I truly doing now is creating my database library [DatabaseHelper](https://github.com/ThePepeYT/databasehelper/)
+
+## Where I can find you or contact
+
+You can find me on:<br>
+[CTK SERVER](https://discord.gg/BzDDN5yYCN)
+[DARKEMPIRE SERVER](https://discord.gg/RER9hkbpjh)
+[MY SERVER](https://discord.gg/A4XZFze8WU)
+<br>
+
 
 
 
