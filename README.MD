@@ -36,7 +36,7 @@ Now I only main java to learn it to perfection
  </p>
 
 ## My stats
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ThePepeYTc&theme=onedark&margin-w=5&margin-h=5&no-bg=false"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ThePepeYT&theme=onedark&margin-w=5&margin-h=5&no-bg=false"></p>
 
 ## What I`am doing now?
 Now I am creating bots/mc plugins/applications for free because ... yes
