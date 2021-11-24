@@ -8,19 +8,19 @@ Now I only main java to learn it to perfection
 
 <p align="left">
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=MySQL(forks)&color=blue"></a>
+    <a href="https://www.mysql.com/"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=MySQL(forks)&color=blue"></a>
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="Redis" src="https://img.shields.io/static/v1?label=&message=Redis&color=red"></a>  
+    <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/static/v1?label=&message=Redis&color=red"></a>  
    &emsp;
-   <a href="https://www.heroku.com/"><img alt="MongoDB" src="https://img.shields.io/static/v1?label=&message=MongoDB&color=green"></a>
+   <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/static/v1?label=&message=MongoDB&color=green"></a>
     &emsp;
-      <a href="https://www.heroku.com/"><img alt="SQLite3" src="https://img.shields.io/static/v1?label=&message=SQLite3&color=orange"></a>
+      <a href="https://sqlite.org/index.html"><img alt="SQLite3" src="https://img.shields.io/static/v1?label=&message=SQLite3&color=orange"></a>
  </p>
 
 ### 👌Languages
 <p align="left">
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="JAVA" src="https://img.shields.io/static/v1?label=&message=Java&color=red"></a>
+    <a href="https://www.java.com/"><img alt="JAVA" src="https://img.shields.io/static/v1?label=&message=Java&color=red"></a>
  </p>
 
 
@@ -28,11 +28,11 @@ Now I only main java to learn it to perfection
 
 <p align="left">
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="Intelij" src="https://img.shields.io/static/v1?label=&message=Intellij&color=red"></a>
+    <a href="https://www.jetbrains.com/idea/"><img alt="Intelij IDEA" src="https://img.shields.io/static/v1?label=&message=Intellij&color=red"></a>
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="Vscode" src="https://img.shields.io/static/v1?label=&message=Vscode&color=blue"></a>  
+    <a href="https://code.visualstudio.com"><img alt="Visual studio code" src="https://img.shields.io/static/v1?label=&message=Vscode&color=blue"></a>  
    &emsp;
-   <a href="https://www.heroku.com/"><img alt="Webstorm" src="https://img.shields.io/static/v1?label=&message=Webstorm&color=green"></a>  
+   <a href="https://www.jetbrains.com/webstorm/"><img alt="Webstorm" src="https://img.shields.io/static/v1?label=&message=Webstorm&color=green"></a>  
  </p>
 
 ### 📊My stats
