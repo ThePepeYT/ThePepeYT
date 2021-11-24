@@ -42,6 +42,7 @@ and what I truly doing now is creating my database library [DatabaseHelper](http
 ## Where I can find you or contact
 
 You can find me on:
+<strong>
 <br>
 [CTK SERVER](https://discord.gg/BzDDN5yYCN)
 </br>
@@ -51,6 +52,7 @@ You can find me on:
 <br>
 [MY SERVER](https://discord.gg/A4XZFze8WU)
 </br>
+</strong>
 
 
 
