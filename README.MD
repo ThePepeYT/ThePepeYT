@@ -10,11 +10,11 @@ Now I only main java to learn it to perfection
   &emsp;
     <a href="https://www.mysql.com/"><img alt="SQL" src="https://shields.io/badge/MySQL-and--any--forks?logo=appveyor&style=for-the-badge&color=blue"></a>
   &emsp;
-    <a href="https://redis.io/"><img alt="Redis" src="https://shields.io/badge/Redis-and--any--forks?logo=appveyor&style=for-the-badge&color=blue"></a>
+    <a href="https://redis.io/"><img alt="Redis" src="https://shields.io/badge/Redis-and--any--forks?logo=appveyor&style=for-the-badge&color=red"></a>
    &emsp;
-   <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://shields.io/badge/Redis-and--any--forks?logo=appveyor&style=for-the-badge&color=green"></a>
+   <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://shields.io/badge/MongoDB-and--any--forks?logo=appveyor&style=for-the-badge&color=green"></a>
     &emsp;
-      <a href="https://sqlite.org/"><img alt="SQLite3" src="https://shields.io/badge/Redis-and--any--forks?logo=appveyor&style=for-the-badge&color=purple"></a>
+      <a href="https://sqlite.org/"><img alt="SQLite3" src="https://shields.io/badge/SQLite3-and--any--forks?logo=appveyor&style=for-the-badge&color=purple"></a>
  </p>
 
 ### 👌Languages
