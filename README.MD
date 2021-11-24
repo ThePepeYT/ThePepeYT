@@ -43,7 +43,7 @@ and what I truly doing now is creating my database library [DatabaseHelper](http
 
 
 <br>
-[CTK SERVER](https://discord.gg/BzDDN5yYCN) as someone who wanna be funny
+[CTK SERVER](https://discord.gg/BzDDN5yYCN) 
 </br>
 <br>
 [DARKEMPIRE SERVER](https://discord.gg/RER9hkbpjh) as someone who kinda try to help
