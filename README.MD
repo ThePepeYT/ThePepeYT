@@ -8,7 +8,8 @@ Now I only main java to learn it to perfection
 
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="SQL" src="https://img.shields.io/static/v1?label=&message=MySQL(forks)&color=blue?style=for-the-badge&logo=appveyor"></a>
+
+    <a href="https://www.mysql.com/"><img alt="SQL" src="https://shields.io/badge/MySQL-and--any--forks?logo=appveyor&style=for-the-badge&color=red"></a>
   &emsp;
     <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/static/v1?label=&message=Redis&color=red"></a>  
    &emsp;
