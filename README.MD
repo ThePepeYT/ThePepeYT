@@ -7,7 +7,7 @@ Now I only main java to learn it to perfection
 
 
 
-### Databases that I kinda know
+## Databases that I kinda know
 
 <p align="left">
   &emsp;
@@ -17,6 +17,26 @@ Now I only main java to learn it to perfection
    &emsp;
    <a href="https://www.heroku.com/"><img alt="MongoDB" src="https://img.shields.io/static/v1?label=&message=MongoDB&color=green"></a>  
  </p>
+
+## Programming languages
+<p align="left">
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="JAVA" src="https://img.shields.io/static/v1?label=&message=Java&color=red"></a>
+ </p>
+
+
+## IDE
+
+<p align="left">
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Intelij" src="https://img.shields.io/static/v1?label=&message=JetBrainsS&color=red"></a>
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Vscode" src="https://img.shields.io/static/v1?label=&message=Vscode&color=blue"></a>  
+   &emsp;
+   <a href="https://www.heroku.com/"><img alt="Webstorm" src="https://img.shields.io/static/v1?label=&message=Webstorm&color=green"></a>  
+ </p>
+
+
 
 <h1 align="center"><strong>Hi, I'm Bartek, and i am living in Poland <3</strong></h1>
 <h3 align="center">
