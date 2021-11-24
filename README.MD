@@ -41,7 +41,7 @@ and what I truly doing now is creating my database library [DatabaseHelper](http
 
 ## Where I can find you or contact
 
-<strong>
+
 <br>
 [CTK SERVER](https://discord.gg/BzDDN5yYCN) as someone who wanna be funny
 </br>
@@ -54,7 +54,7 @@ and what I truly doing now is creating my database library [DatabaseHelper](http
 <br>
 My discord tag: ThePepeYT#1139
 </br>
-</strong>
+
 
 
 
