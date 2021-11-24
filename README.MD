@@ -28,7 +28,7 @@ Now I only main java to learn it to perfection
 
 <p align="left">
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="Intelij" src="https://img.shields.io/static/v1?label=&message=JetBrainsS&color=red"></a>
+    <a href="https://www.heroku.com/"><img alt="Intelij" src="https://img.shields.io/static/v1?label=&message=Intellij&color=red"></a>
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Vscode" src="https://img.shields.io/static/v1?label=&message=Vscode&color=blue"></a>  
    &emsp;
@@ -40,8 +40,8 @@ Now I am creating bots/mc plugins/applications for free because ... yes
 and what I truly doing now is creating my database library [DatabaseHelper](https://github.com/ThePepeYT/databasehelper/)
 
 ## Where I can find you or contact
+### You can find me on:
 
-You can find me on:
 <strong>
 <br>
 [CTK SERVER](https://discord.gg/BzDDN5yYCN) as someone who wanna be funny
