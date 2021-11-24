@@ -1,13 +1,10 @@
-## Hello I`am ThePepeYT
+# 👋Hello I`am ThePepeYT
 
-## About me
+# 💁About me
 I`am 15 years old boy that likes learn about programming, AI and technology.
 Now I only main java to learn it to perfection 
 
-
-
-
-## Databases that I kinda know
+## 📙Databases I know
 
 <p align="left">
   &emsp;
@@ -20,7 +17,7 @@ Now I only main java to learn it to perfection
       <a href="https://www.heroku.com/"><img alt="SQLite3" src="https://img.shields.io/static/v1?label=&message=SQLite3&color=orange"></a>
  </p>
 
-## Programming languages
+## 👌Languages
 <p align="left">
   &emsp;
     <a href="https://www.heroku.com/"><img alt="JAVA" src="https://img.shields.io/static/v1?label=&message=Java&color=red"></a>
@@ -42,12 +39,5 @@ Now I only main java to learn it to perfection
 
 
 
-<!-- Contact me -->
-<details align="center"><summary><b>Contact me</b></summary>
-    <ul>
-        <li><strong>Discord:</strong> <code>ThePepeYT#1139</code></li>
-        <li><strong>Discord Group:</strong> <code>[DISCORD](https://discord.gg/ktUcZwCsE4)</code</li>
-    </ul>
-</details>
 
 
