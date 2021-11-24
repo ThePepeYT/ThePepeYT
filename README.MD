@@ -20,7 +20,7 @@ Now I only main java to learn it to perfection
 ### 👌Languages
 <p align="left">
   &emsp;
-    <a href="https://www.java.com/"><img alt="JAVA" src="https://img.shields.io/static/v1?label=&message=Java&color=red"></a>
+    <a href="https://www.java.com/"><img alt="JAVA" src="https://shields.io/badge/Java-and--any--forks?logo=appveyor&style=for-the-badge&color=red"></a>
  </p>
 
 
@@ -28,11 +28,11 @@ Now I only main java to learn it to perfection
 
 <p align="left">
   &emsp;
-    <a href="https://www.jetbrains.com/idea/"><img alt="Intelij IDEA" src="https://img.shields.io/static/v1?label=&message=Intellij&color=red"></a>
+    <a href="https://www.jetbrains.com/idea/"><img alt="Intelij IDEA" src="https://shields.io/badge/Intellij IDEA-and--any--forks?logo=appveyor&style=for-the-badge&color=red"></a>
   &emsp;
-    <a href="https://code.visualstudio.com"><img alt="Visual studio code" src="https://img.shields.io/static/v1?label=&message=Vscode&color=blue"></a>  
+    <a href="https://code.visualstudio.com"><img alt="Visual studio code" src="https://shields.io/badge/Visual studio code-and--any--forks?logo=appveyor&style=for-the-badge&color=blue"></a>  
    &emsp;
-   <a href="https://www.jetbrains.com/webstorm/"><img alt="Webstorm" src="https://img.shields.io/static/v1?label=&message=Webstorm&color=green"></a>  
+   <a href="https://www.jetbrains.com/webstorm/"><img alt="Webstorm" src="https://shields.io/badge/Webstorm-and--any--forks?logo=appveyor&style=for-the-badge&color=green"></a>  
  </p>
 
 ### 📊My stats
@@ -46,11 +46,11 @@ and what I truly doing now is creating my database library [DatabaseHelper](http
 
 <p align="left">
   &emsp;
-    <a href="https://discord.gg/BzDDN5yYCN"><img alt="CTK" src="https://img.shields.io/static/v1?label=&message=CTK server&color=blue"></a>
+    <a href="https://discord.gg/BzDDN5yYCN"><img alt="CTK" src="https://shields.io/badge/CTK server-and--any--forks?logo=appveyor&style=for-the-badge&color=red"></a>
   &emsp;
-    <a href="https://discord.gg/RER9hkbpjh"><img alt="DARKEMPIRE" src="https://img.shields.io/static/v1?label=&message=Darkempire server&color=red"></a>  
+    <a href="https://discord.gg/RER9hkbpjh"><img alt="DARKEMPIRE" src="https://shields.io/badge/Darkempire server-and--any--forks?logo=appveyor&style=for-the-badge&color=blue"></a>  
    &emsp;
-   <a href="https://discord.gg/A4XZFze8WU"><img alt="my" src="https://img.shields.io/static/v1?label=&message=My server&color=green"></a>
+   <a href="https://discord.gg/A4XZFze8WU"><img alt="my" src="https://shields.io/badge/My server-and--any--forks?logo=appveyor&style=for-the-badge&color=green"></a>
  </p>
 
 
